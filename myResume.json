@@ -1,0 +1,113 @@
+{
+	"basics": {
+		"name": "Lakshita Saxena",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1020@iiitkota.ac.in",
+		"phone": "",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & Engineering. Making designs. I have enthusiasm in Full Stack development and competitive programming.",
+		"location": {
+			"address": "jalalabad cold store",
+			"postalCode": "242221",
+			"city": "Bareilly",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "SaxenaLakshita",
+				"url": "https://www.twitter.com/saxenaLakshita"
+			},
+			{
+				"network": "Github",
+				"username": "lakshitaS",
+				"url": "https://www.github.com/lakshitaS"
+			},
+			{
+				"network": "linkedin",
+				"username": "lakshitasaxena",
+				"url": "https://www.linkedin.com/in/lakshitasaxena/"
+			},
+			{
+				"network": "Instagram",
+				"username": "lakshita.saxena1",
+				"url": "https://instagram.com/lakshita.saxena1"
+			}
+		]
+	},
+	"work": [{
+			"company": "IIITians Network",
+			"position": "Social media Coordinator",
+			"website": "https://iiitiansnetwork.com",
+			"startDate": "",
+			"endDate": "",
+			"summary": "Working as social media coordinator of IIITians Network "
+		},
+		{
+			"company": "IIIT Kota",
+			"position": "member of neon",
+			"website": "https://iiitkota.ac.in",
+			"startDate": "",
+			"endDate": "",
+			"summary": "Working as a graphic designer at Neon."
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "8.8",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "Neon posts",
+			"details": "designing graphics",
+			"link": ""
+		}
+
+	],
+	"skills": [{
+		"name": "Front end Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"MySQL",
+			"Git",
+			"C/C++",
+			"Python"
+
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "sports",
+			"keywords": [
+				"Basketball"
+			]
+		}
+
+	]
+}
